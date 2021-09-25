@@ -23,5 +23,5 @@ if ($router->match($url)) {
 
 
 
-// echo get_class($router);
+ echo get_class($router);
 ?>
